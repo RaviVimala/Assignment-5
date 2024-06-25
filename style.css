@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+:root{
+
+    --custom-color:rgb(139, 96, 61);
+}
+.custom{
+    color:var(--custom-color);
+    text-transform: uppercase;
+}
+.custom-bg{
+    background-color: var(--custom-color);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
